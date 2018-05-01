@@ -1,0 +1,16 @@
+{
+  "name": "digit-classifying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-matrix": "^1.0.0",
+    "sigmoid": "0.0.1",
+    "sigmoid-prime": "0.0.1"
+  }
+}
